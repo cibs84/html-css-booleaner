@@ -24,6 +24,7 @@ header .logo {
 
 /* Main */
 
+    /* Articolo - Intestazione e Foto */
 h1 {
     margin-top: 15px;
 }
@@ -46,6 +47,8 @@ h1 {
     font-size: 12px;
     font-weight: 800;
 }
+
+    /* Articolo - Paragrafo 1 e Lista */
 .article p {
     margin-top: 20px;
 }
@@ -56,6 +59,8 @@ h1 {
     margin-top: 30px;
     padding-left: 15px;
 }
+
+    /* Articolo - Tabella e Paragrafo 2 */
 .article table {
     margin-top: 30px;
 }
@@ -73,6 +78,8 @@ table th.last-col {
 tr.odd {
     background-color: #b1e5f2;
 }
+
+/* Sezione - Potrebbero Interessarti */
 #recommended {
     margin-top: 30px;
     margin-bottom: 30px;
