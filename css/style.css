@@ -39,3 +39,10 @@ h1 {
 .date {
     font-size: 10px;
 }
+.photos-article {
+    margin-top: 20px;
+}
+.photos-credits {
+    font-size: 10px;
+    font-weight: 800;
+}
