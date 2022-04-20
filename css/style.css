@@ -6,3 +6,18 @@
 }
 
 /* Header */
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: 370px;
+}
+.container {
+    width: 98%;
+    margin: auto;
+}
+header .logo {
+    width: 180px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
