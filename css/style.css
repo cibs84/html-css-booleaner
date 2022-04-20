@@ -13,7 +13,7 @@ header {
     background-size: 370px;
 }
 .container {
-    width: 98%;
+    width: 80%;
     margin: auto;
 }
 header .logo {
@@ -43,6 +43,16 @@ h1 {
     margin-top: 20px;
 }
 .photos-credits {
-    font-size: 10px;
+    font-size: 12px;
     font-weight: 800;
+}
+.article p {
+    margin-top: 20px;
+}
+.article p .highlighted {
+    background-color: yellow;
+}
+.list-article {
+    margin-top: 30px;
+    padding-left: 15px;
 }
